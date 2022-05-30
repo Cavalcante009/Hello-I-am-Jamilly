@@ -1,7 +1,7 @@
 # ✌️😎Hello I am Jamilly 👩🏾
 - Estudante de ADS  💻🧠
 - Iniciante em linguagem de programação💻🧠👩🏾‍💻 </> 
-- Hum back end or front end... that's the question ... 👩🏾 + 💻 + 🧠 = 👩🏾‍💻😉✌️😍
+- Hum back end or front end? That's the question ... 👩🏾 + 💻 + 🧠 = 👩🏾‍💻😉✌️😍
 
 ##
 <div align="center">
