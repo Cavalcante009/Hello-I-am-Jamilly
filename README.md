@@ -1,7 +1,7 @@
 # ✌️😎Hello I am Jamilly 👩🏾
-- Estudante de ADS  💻🧠
-- Iniciante em linguagem de programação💻🧠👩🏾‍💻</> -
-- Front-end </> 💻 + 🧠 = 👩🏾‍💻😉✌️😍
+- Formada em ADS  💻🧠
+- Estudante de programação💻🧠👩🏾‍💻</> -
+- Full Stack. </> 💻 + 🧠 = 👩🏾‍💻😉✌️😍
 
 ##
 <div align="center">
